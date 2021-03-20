@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/    
+        
+  - title: "Technical"
+    url: /technical/
+    
+  - title: "Non Technical"
+    url: /non-technical/
+    
+  - title: "CV"
+    url: /cv/
